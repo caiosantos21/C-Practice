@@ -1,2 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+sbyte a = 10;
+
+Console.WriteLine("Hello, World! " + a);
